@@ -103,3 +103,8 @@
 /Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/RecipeBox.pdb
 /Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/RecipeBox.genruntimeconfig.cache
 /Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Tags/Create.cshtml.g.cs
+/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Tags/Delete.cshtml.g.cs
+/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Tags/Details.cshtml.g.cs
+/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Tags/Edit.cshtml.g.cs
+/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/obj/Debug/net5.0/Razor/Views/Tags/Index.cshtml.g.cs

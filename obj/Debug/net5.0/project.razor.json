@@ -15624,6 +15624,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Tags/Details.cshtml",
+      "TargetPath": "Views\\Tags\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Recipes/Details.cshtml",
       "TargetPath": "Views\\Recipes\\Details.cshtml",
       "FileKind": "mvc"
@@ -15634,13 +15639,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Tags/Index.cshtml",
+      "TargetPath": "Views\\Tags\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Account/Index.cshtml",
       "TargetPath": "Views\\Account\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Tags/Delete.cshtml",
+      "TargetPath": "Views\\Tags\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Recipes/Delete.cshtml",
       "TargetPath": "Views\\Recipes\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Tags/Create.cshtml",
+      "TargetPath": "Views\\Tags\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15676,6 +15696,11 @@
     {
       "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelwatkins1/Desktop/RecipeBox.Solution/RecipeBox/Views/Tags/Edit.cshtml",
+      "TargetPath": "Views\\Tags\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
