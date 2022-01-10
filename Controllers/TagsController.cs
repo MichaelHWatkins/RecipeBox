@@ -10,7 +10,7 @@ namespace RecipeBox.Controllers
   {
     private readonly RecipeBoxContext _db;
 
-    public CategoriesController(RecipeBoxContext db)
+    public TagsController(RecipeBoxContext db)
     {
       _db = db;
     }
